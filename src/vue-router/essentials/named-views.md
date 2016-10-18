@@ -32,3 +32,4 @@ const router = new VueRouter({
 
 以上案例相关的可运行代码，在
 [这里](https://jsfiddle.net/posva/9b80nxx1/).
+例子页面不存在
